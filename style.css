@@ -1,0 +1,32 @@
+.fondo
+        {background-color:#222222;}
+.fondo
+        {color:#F3F3F3}
+.naranja 
+        {background-color:#F0A83E ; color:#F3F3F3}
+.blanco
+        {color:#F3F3F3}
+.center
+        {text-align:center} 
+h2
+    {text-align:center}
+.marron 
+        {background-color: #3C2313} 
+.black
+        {color:black}
+.naranjita 
+            {color:#F0A83E}
+html
+    {font-family: 'Roboto', sans-serif;}
+.viñeta
+        {list-style-type: none;}
+.beige 
+        {background-color: #FBFAF6}
+i {color:white}
+.positionrelative 
+        {position: relative}
+.moviendo 
+    {position: absolute;
+    left: 50%;
+    top:20% ;
+    transform: translate(-50%, -50%);}
